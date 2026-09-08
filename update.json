@@ -1,9 +1,9 @@
 {
   "packageId": "com.bennet.stormbreak",
-  "version": "0.8.0",
-  "versionCode": 9,
-  "url": "https://github.com/Benighter/Stormbreak-Releases/releases/download/v0.8.0/Stormbreak-0.8.0.apk",
-  "sha256": "79e430188e60ae999635501a55a8a34fa6744e05a6040d178aaf10795dc6697a",
-  "size": 60451448,
-  "notes": "Stormbreak 0.8.0 - Flight deck and living worlds\n\nInspect every interceptor as a complete rotating 3D model. Drag to rotate, compare hull, speed and shot power, and read its signature ability before choosing your difficulty.\n\nKestrel: Slipstream. A two-second speed boost with brief hit protection. 18-second recharge.\nManta: EMP Pulse. Clears nearby hostile shots and briefly stuns surviving regular enemies. 22-second recharge.\nBastion: Siege Mode. Five seconds of stronger shots at reduced movement speed. 24-second recharge.\nUse the flight ability button, E on keyboard or LB on a controller. Cooldowns pause with the game and survive campaign resumes.\n\nAll ten stage themes now use new Blender terrain and architecture. Ferries cross the coast, cars travel city roads, industrial and orbital mechanisms rotate, and wind, cloud and steam effects add movement below the combat area. High quality now includes scenery shadows; Ultra retains its enhanced lighting and resolution.\n\nExisting achievements, saves, difficulty rules, weapon upgrades and the original app icon are retained."
+  "version": "0.8.1",
+  "versionCode": 10,
+  "url": "https://github.com/Benighter/Stormbreak-Releases/releases/download/v0.8.1/Stormbreak-0.8.1.apk",
+  "sha256": "7e29259d3495540c9cbe9493a147274c2f4f12831a77850f3a36b805e9047f48",
+  "size": 60459002,
+  "notes": "Stormbreak 0.8.1 - Clearer threats\n\nEnemy aircraft, minibosses and bosses now have a restrained warm contour with a thin dark backing, helping their silhouettes stand out over active scenery while preserving their original materials.\nHostile bullets have a bright cream centre, pink body and dark edge. Their visual footprint is slightly larger for readability; collision radii, damage, speed and patterns are unchanged.\nThe treatment works in Low, High and Ultra, including Reduced flashes, without pulsing highlights or added bloom. Player weapons, pickups, environments, saves and progression are unchanged."
 }
