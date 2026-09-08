@@ -1,9 +1,9 @@
 {
   "packageId": "com.bennet.stormbreak",
-  "version": "0.8.2",
-  "versionCode": 11,
-  "url": "https://github.com/Benighter/Stormbreak-Releases/releases/download/v0.8.2/Stormbreak-0.8.2.apk",
-  "sha256": "b7c008522b7928422b017d58c2f758aa528aff9f0d9f6eade23e0f751fe6429a",
-  "size": 60465906,
-  "notes": "Stormbreak 0.8.2 - Room to dodge\n\n- Shared escape-route protection across all difficulties, bosses and minibosses.\n- Overlapping volleys leave room for a dodge; blocking escorts can peel away.\n- Aimed shots and late dodges remain dangerous.\n- Automatic update checks on launch and when returning to the app.\n- Existing saves and achievements are retained. New runs use updated balance records."
+  "version": "0.8.3",
+  "versionCode": 12,
+  "url": "https://github.com/Benighter/Stormbreak-Releases/releases/download/v0.8.3/Stormbreak-0.8.3.apk",
+  "sha256": "f117249c7014ea77319d55aad098567d86db771e4cc5e294cebc21461bb96d12",
+  "size": 60468192,
+  "notes": "NEW FEATURES\nLaunch update popup: see a new version and tap Update now directly from the main menu.\nWhat's new: read the new features, fixes and patches before updating, and again after installation.\n\nFIXES & IMPROVEMENTS\nScrollable release notes keep longer changelogs readable.\nLater lets you keep playing. Update prompts wait until you leave a flight.\nDownload progress and installer messages appear inside the popup.\nYour existing flight progress and achievements are retained."
 }
