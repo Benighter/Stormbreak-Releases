@@ -1,9 +1,9 @@
 {
   "packageId": "com.bennet.stormbreak",
-  "version": "0.8.1",
-  "versionCode": 10,
-  "url": "https://github.com/Benighter/Stormbreak-Releases/releases/download/v0.8.1/Stormbreak-0.8.1.apk",
-  "sha256": "7e29259d3495540c9cbe9493a147274c2f4f12831a77850f3a36b805e9047f48",
-  "size": 60459002,
-  "notes": "Stormbreak 0.8.1 - Clearer threats\n\nEnemy aircraft, minibosses and bosses now have a restrained warm contour with a thin dark backing, helping their silhouettes stand out over active scenery while preserving their original materials.\nHostile bullets have a bright cream centre, pink body and dark edge. Their visual footprint is slightly larger for readability; collision radii, damage, speed and patterns are unchanged.\nThe treatment works in Low, High and Ultra, including Reduced flashes, without pulsing highlights or added bloom. Player weapons, pickups, environments, saves and progression are unchanged."
+  "version": "0.8.2",
+  "versionCode": 11,
+  "url": "https://github.com/Benighter/Stormbreak-Releases/releases/download/v0.8.2/Stormbreak-0.8.2.apk",
+  "sha256": "b7c008522b7928422b017d58c2f758aa528aff9f0d9f6eade23e0f751fe6429a",
+  "size": 60465906,
+  "notes": "Stormbreak 0.8.2 - Room to dodge\n\n- Shared escape-route protection across all difficulties, bosses and minibosses.\n- Overlapping volleys leave room for a dodge; blocking escorts can peel away.\n- Aimed shots and late dodges remain dangerous.\n- Automatic update checks on launch and when returning to the app.\n- Existing saves and achievements are retained. New runs use updated balance records."
 }
