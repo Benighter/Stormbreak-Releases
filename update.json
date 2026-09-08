@@ -1,0 +1,9 @@
+{
+  "packageId": "com.bennet.stormbreak",
+  "version": "0.7.1",
+  "versionCode": 8,
+  "url": "https://github.com/Benighter/Stormbreak-Releases/releases/download/v0.7.1/Stormbreak-0.7.1.apk",
+  "sha256": "900324924bebd3655615f989c3aee4036d111a6b7ff805e9a1ccdea7b6b3eb8a",
+  "size": 59656000,
+  "notes": "A new flight deck: redesigned home, setup, settings, About and achievement cards.\nChoose your jet and difficulty when starting a flight. Campaign difficulty stays locked.\nBoss laser walls replaced with aimed, dodgeable volleys.\nWeapon pickups retain your upgrade tier across all eight weapons.\nPin up to three achievement goals and see progress during flight, plus new-unlock badges in the menu.\nUltra graphics: original Blender scenery detail, soft shadows, richer reflections, supersampling and denser explosions.\n30, 60, 90, 120 and Unlimited frame requests, subject to display and device support.\nAndroid update checks, verified downloads and the normal Android installation confirmation.\nExisting progress is preserved when updating. Harder-mode death penalties still apply."
+}
