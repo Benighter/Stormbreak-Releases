@@ -1,9 +1,9 @@
 {
   "packageId": "com.bennet.stormbreak",
-  "version": "0.7.1",
-  "versionCode": 8,
-  "url": "https://github.com/Benighter/Stormbreak-Releases/releases/download/v0.7.1/Stormbreak-0.7.1.apk",
-  "sha256": "900324924bebd3655615f989c3aee4036d111a6b7ff805e9a1ccdea7b6b3eb8a",
-  "size": 59656000,
-  "notes": "A new flight deck: redesigned home, setup, settings, About and achievement cards.\nChoose your jet and difficulty when starting a flight. Campaign difficulty stays locked.\nBoss laser walls replaced with aimed, dodgeable volleys.\nWeapon pickups retain your upgrade tier across all eight weapons.\nPin up to three achievement goals and see progress during flight, plus new-unlock badges in the menu.\nUltra graphics: original Blender scenery detail, soft shadows, richer reflections, supersampling and denser explosions.\n30, 60, 90, 120 and Unlimited frame requests, subject to display and device support.\nAndroid update checks, verified downloads and the normal Android installation confirmation.\nExisting progress is preserved when updating. Harder-mode death penalties still apply."
+  "version": "0.8.0",
+  "versionCode": 9,
+  "url": "https://github.com/Benighter/Stormbreak-Releases/releases/download/v0.8.0/Stormbreak-0.8.0.apk",
+  "sha256": "79e430188e60ae999635501a55a8a34fa6744e05a6040d178aaf10795dc6697a",
+  "size": 60451448,
+  "notes": "Stormbreak 0.8.0 - Flight deck and living worlds\n\nInspect every interceptor as a complete rotating 3D model. Drag to rotate, compare hull, speed and shot power, and read its signature ability before choosing your difficulty.\n\nKestrel: Slipstream. A two-second speed boost with brief hit protection. 18-second recharge.\nManta: EMP Pulse. Clears nearby hostile shots and briefly stuns surviving regular enemies. 22-second recharge.\nBastion: Siege Mode. Five seconds of stronger shots at reduced movement speed. 24-second recharge.\nUse the flight ability button, E on keyboard or LB on a controller. Cooldowns pause with the game and survive campaign resumes.\n\nAll ten stage themes now use new Blender terrain and architecture. Ferries cross the coast, cars travel city roads, industrial and orbital mechanisms rotate, and wind, cloud and steam effects add movement below the combat area. High quality now includes scenery shadows; Ultra retains its enhanced lighting and resolution.\n\nExisting achievements, saves, difficulty rules, weapon upgrades and the original app icon are retained."
 }
