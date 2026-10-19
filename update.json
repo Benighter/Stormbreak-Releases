@@ -1,9 +1,9 @@
 {
   "packageId": "com.bennet.stormbreak",
-  "version": "0.8.3",
-  "versionCode": 12,
-  "url": "https://github.com/Benighter/Stormbreak-Releases/releases/download/v0.8.3/Stormbreak-0.8.3.apk",
-  "sha256": "f117249c7014ea77319d55aad098567d86db771e4cc5e294cebc21461bb96d12",
-  "size": 60468192,
-  "notes": "NEW FEATURES\nLaunch update popup: see a new version and tap Update now directly from the main menu.\nWhat's new: read the new features, fixes and patches before updating, and again after installation.\n\nFIXES & IMPROVEMENTS\nScrollable release notes keep longer changelogs readable.\nLater lets you keep playing. Update prompts wait until you leave a flight.\nDownload progress and installer messages appear inside the popup.\nYour existing flight progress and achievements are retained."
+  "version": "0.8.5",
+  "versionCode": 14,
+  "url": "https://github.com/Benighter/Stormbreak-Releases/releases/download/v0.8.5/Stormbreak-0.8.5-transition.apk",
+  "sha256": "3c61246ef0beb81cb2e25b0a7c449e0df782704f93d006e86359338fe2ca3897",
+  "size": 53611121,
+  "notes": "STORMBREAK 0.8.5\r\n\r\nAndroid players now get Stormbreak from Google Play. The direct-download edition shows the official store link whenever you open or return to the home menu, until you use the Play edition.\r\n\r\nGoogle Play installations stay quiet and receive future updates through the store. iOS and desktop users do not receive the Android reminder.\r\n\r\nThe reminder leaves your campaign progress and achievements intact and waits until you are out of a flight."
 }

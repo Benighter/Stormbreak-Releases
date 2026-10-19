@@ -6,6 +6,6 @@ This repository contains signed Android downloads, checksums, update metadata an
 
 Get the Android game from [Google Play](https://play.google.com/store/apps/details?id=com.bennet.stormbreak). Google Play handles future Android updates.
 
-The signed APK update channel is retained to deliver the transition to older direct-download installations. Those editions show the Google Play link again when the game reopens, with an option to finish the current session first. Google Play installations stay quiet. The reminder does not clear campaign progress or achievements, and players should keep their existing installation until Google Play has finished updating it.
+The signed APK update channel is retained to deliver the transition to older direct-download installations. The transition edition shows the Google Play link again when the game reopens, with an option to finish the current session first. Google Play installations stay quiet. The reminder does not clear campaign progress or achievements, and players should keep their existing installation until Google Play has finished updating it.
 
 All rights reserved by Bennet.
