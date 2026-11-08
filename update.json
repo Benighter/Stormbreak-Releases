@@ -1,9 +1,6 @@
 {
-  "packageId": "com.bennet.stormbreak",
-  "version": "0.8.5",
-  "versionCode": 14,
-  "url": "https://github.com/Benighter/Stormbreak-Releases/releases/download/v0.8.5/Stormbreak-0.8.5-transition.apk",
-  "sha256": "3c61246ef0beb81cb2e25b0a7c449e0df782704f93d006e86359338fe2ca3897",
-  "size": 53611121,
-  "notes": "STORMBREAK 0.8.5\r\n\r\nAndroid players now get Stormbreak from Google Play. The direct-download edition shows the official store link whenever you open or return to the home menu, until you use the Play edition.\r\n\r\nGoogle Play installations stay quiet and receive future updates through the store. iOS and desktop users do not receive the Android reminder.\r\n\r\nThe reminder leaves your campaign progress and achievements intact and waits until you are out of a flight."
+  "distribution": "google-play",
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.bennet.stormbreak",
+  "versionCode": 0,
+  "message": "Use Google Play for purchases and updates."
 }
